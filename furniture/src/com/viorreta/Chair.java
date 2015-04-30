@@ -5,7 +5,7 @@ package com.viorreta;
 
 /**
  * @author daniel.viorreta
- *
+ * Class to wrap furniture common features
  */
 public abstract class Chair extends Furniture {
 	protected int numOfLegs = 4;
